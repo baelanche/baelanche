@@ -1,7 +1,7 @@
-I'm baelanche
-I'm a senior at Ajou University
-I usually upload algorithm problem solving.
-
+I'm baelanche<br/>
+I'm a senior at Ajou University<br/>
+I usually upload algorithm problem solving.<br/>
+<br/>
 I wish you happiness
 
 <!---
