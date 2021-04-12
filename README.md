@@ -1,6 +1,6 @@
 I'm baelanche<br/>
 I'm a senior at Ajou University<br/>
-I usually upload algorithm problem solving.<br/>
+I usually upload algorithm problem solving<br/>
 
 
 <!---
