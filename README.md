@@ -1,8 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baegyu3)](https://solved.ac/baegyu3/)
 
-I'm baelanche<br/>
-I'm a senior at Ajou University<br/>
-I usually upload algorithm problem solving<br/>
+I'm [baelanche](https://baelanche.github.io/baelanche_web/)<br/>
 
 
 <!---
